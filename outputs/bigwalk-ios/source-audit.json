@@ -1,0 +1,97 @@
+{
+  "version": "1.5.1",
+  "build": "20260827105422",
+  "bundle_identifier": "com.panic.bigwalk",
+  "binaries": [
+    {
+      "path": "Contents/Frameworks/GameAssembly.dylib",
+      "sha256": "6e5b43bd312c3e0df96276f8a9ac71e0e5b4388a5d0c53bfd8e659868f5767ec",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ],
+      "encryption_ids": []
+    },
+    {
+      "path": "Contents/Frameworks/UnityPlayer.dylib",
+      "sha256": "40d62168843dba9a3aac3c8500ef72d8de1e047af66838df8e2176249c122d14",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ],
+      "encryption_ids": []
+    },
+    {
+      "path": "Contents/MacOS/Big Walk",
+      "sha256": "9f157ac037ffc8bb705c6ddf53dece56a92e7f45e9aa68cb52fb5448dccd7766",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ],
+      "encryption_ids": []
+    },
+    {
+      "path": "Contents/PlugIns/AudioPluginDissonance.bundle",
+      "sha256": "cd66fdb4ccbeacdc666a628f517cac2e761d1f326c589285d0c8ee1cfd744ca2",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ],
+      "encryption_ids": []
+    },
+    {
+      "path": "Contents/PlugIns/MicrophoneUtility_macos.dylib",
+      "sha256": "292b84b0df484a60ac23baf5a30b0ae0d2469c8d3eec3c5e3bd9fa19f2762b3e",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ],
+      "encryption_ids": []
+    },
+    {
+      "path": "Contents/PlugIns/Rewired_MacOS.bundle",
+      "sha256": "0e1282bff3b1e64eca70382f35d3dea973b576ddcb4307f90eb8e7f96ef01bb3",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ],
+      "encryption_ids": []
+    },
+    {
+      "path": "Contents/PlugIns/libEOSSDK-Mac-Shipping.dylib",
+      "sha256": "9d297cba579b7f842c357c0eae2551b92709ef940dff35833120726c284c055a",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ],
+      "encryption_ids": []
+    },
+    {
+      "path": "Contents/PlugIns/lib_burst_generated.bundle",
+      "sha256": "9e540898d5ad4359b12863d4d9b2a46fa4ab5b5f645bdeac3c8957f14f44c69f",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ],
+      "encryption_ids": []
+    },
+    {
+      "path": "Contents/PlugIns/opus.bundle",
+      "sha256": "2f506d3d9f9bd26e562bae2f0085faff522f00b4e06ccec1ef2e2ccb75c878de",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ],
+      "encryption_ids": []
+    },
+    {
+      "path": "Contents/PlugIns/steam_api.bundle/Contents/MacOS/libsteam_api.dylib",
+      "sha256": "4aac133d4703a30a2bb875f817990a0ef3000390bdfa376aef83a9117f32db46",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ],
+      "encryption_ids": []
+    }
+  ]
+}

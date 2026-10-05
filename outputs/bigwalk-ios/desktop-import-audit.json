@@ -1,0 +1,99 @@
+{
+  "scope": "Desktop facade imports only; SDK stub coverage is static and does not prove runtime behavior",
+  "images": {
+    "UnityPlayer": {
+      "unresolved_desktop_imports": {},
+      "diagnostic_only_imports": {
+        "AVFoundation": [
+          "_AVCaptureSessionPreset320x240",
+          "_AVCaptureSessionPreset960x540"
+        ],
+        "CoreGraphics": [
+          "_CGDisplayIDToOpenGLDisplayMask",
+          "_CGEventCreateMouseEvent"
+        ],
+        "OpenGL": [
+          "_CGLChoosePixelFormat",
+          "_CGLCreateContext",
+          "_CGLDescribeRenderer",
+          "_CGLDestroyContext",
+          "_CGLDestroyPixelFormat",
+          "_CGLDestroyRendererInfo",
+          "_CGLEnable",
+          "_CGLErrorString",
+          "_CGLFlushDrawable",
+          "_CGLGetCurrentContext",
+          "_CGLGetPixelFormat",
+          "_CGLQueryRendererInfo",
+          "_CGLReleaseContext",
+          "_CGLSetCurrentContext",
+          "_CGLSetParameter",
+          "_glClientWaitSync",
+          "_glDeleteSync",
+          "_glFenceSync",
+          "_glFlush"
+        ],
+        "CoreVideo": [
+          "_CVOpenGLTextureCacheCreate",
+          "_CVOpenGLTextureCacheCreateTextureFromImage",
+          "_CVOpenGLTextureCacheFlush",
+          "_CVOpenGLTextureCacheRelease",
+          "_CVOpenGLTextureGetName",
+          "_CVOpenGLTextureGetTarget"
+        ],
+        "AppKit": [
+          "_NSAccessibilityGroupRole",
+          "_NSAccessibilityLayoutChangedNotification",
+          "_NSAccessibilityPopUpButtonRole",
+          "_NSAccessibilityRadioButtonRole",
+          "_NSAccessibilityScrollAreaRole",
+          "_NSAccessibilitySearchFieldSubrole",
+          "_NSAccessibilityTabButtonSubrole",
+          "_NSAccessibilityTabGroupRole",
+          "_NSAccessibilityUIElementsKey",
+          "_NSAccessibilityUnknownSubrole"
+        ],
+        "Security": [
+          "_SecCertificateGetData",
+          "_SecKeychainItemCopyContent",
+          "_SecKeychainItemFreeContent",
+          "_SecKeychainOpen",
+          "_SecKeychainSearchCopyNext",
+          "_SecKeychainSearchCreateFromAttributes"
+        ]
+      }
+    },
+    "GameAssembly": {
+      "unresolved_desktop_imports": {},
+      "diagnostic_only_imports": {}
+    },
+    "SteamAPI": {
+      "unresolved_desktop_imports": {},
+      "diagnostic_only_imports": {}
+    },
+    "Burst": {
+      "unresolved_desktop_imports": {},
+      "diagnostic_only_imports": {}
+    },
+    "EOSSDK": {
+      "unresolved_desktop_imports": {},
+      "diagnostic_only_imports": {}
+    },
+    "Dissonance": {
+      "unresolved_desktop_imports": {},
+      "diagnostic_only_imports": {}
+    },
+    "Microphone": {
+      "unresolved_desktop_imports": {},
+      "diagnostic_only_imports": {}
+    },
+    "Rewired": {
+      "unresolved_desktop_imports": {},
+      "diagnostic_only_imports": {}
+    },
+    "Opus": {
+      "unresolved_desktop_imports": {},
+      "diagnostic_only_imports": {}
+    }
+  }
+}
