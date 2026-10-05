@@ -1,0 +1,35 @@
+{
+  "game_version": "1.5.1",
+  "game_build": "20260827105422",
+  "unity": "6000.3.17f1",
+  "tested_device": "iPhone 17 / A19 / iOS 26.3",
+  "verified": {
+    "map": true,
+    "audible_audio_historical_user_feedback": true,
+    "eos_device_login": true,
+    "real_join_code_and_lobby": true,
+    "cross_device_map_sync": true,
+    "touch_keyboard_user_confirmed": true,
+    "mouse_left_right_hold_release": true,
+    "quality_six_preset_api_test": true,
+    "quality_manual_menu_user_confirmed": true,
+    "resolution_presets": [
+      720,
+      900,
+      1080,
+      1440
+    ]
+  },
+  "known_limits": [
+    "iPad geometry tested; no iPad hardware validation",
+    "Microphone voice traffic not yet verified",
+    "Optional system root certificate candidate not installed",
+    "Debug/development signing; bring your own provisioning",
+    "Fixed input version only; no proprietary source code or game assets included"
+  ],
+  "quality_test": {
+    "samples": 90,
+    "peak_footprint_bytes": 2500709264,
+    "texture_mip_limit": 2
+  }
+}

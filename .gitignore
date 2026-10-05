@@ -1,0 +1,32 @@
+# Local proprietary inputs and generated outputs
+/work/
+/deliverables/
+*.app/
+*.framework/
+*.ipa
+*.dylib
+*.bundle/
+*.mobileprovision
+*.p12
+*.pfx
+*.cer
+*.key
+*.pem
+*.keychain*
+*.unity3d
+*.metallib
+__pycache__/
+*.pyc
+.DS_Store
+xcuserdata/
+*.xcuserstate
+.env
+.env.*
+# Runtime logs and account/device data
+**/Player.log
+**/runtime-console.log
+**/install*.json
+**/launch*.json
+
+# Generated locally from macOS APIs
+StrayUSKeyboard.inc
